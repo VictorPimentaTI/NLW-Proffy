@@ -1,2 +1,2 @@
-# NLW
- Next Level Week - Proffy. Criação de uma plataforma que ajuda estudantes encontrarem professores de uma determinada matéria
+# NLW - Next Level Week
+  Proffy - É uma plataforma online que ajuda pessoas que desejam aprender, sobre determinada matéria, com professores que desejam ensinar.
