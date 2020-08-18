@@ -21,7 +21,7 @@
 ## :computer: Projeto
 
 Proffy - É uma plataforma online que ajuda pessoas que desejam aprender, sobre determinada matéria, com professores que desejam ensinar.
-O projeto é desenvolvido para que estudantes e professores possam se conectar. Os professores realizam o cadastro na plataforma inserindo algumas informações como nome, matéria, horário disponíveis e whatsapp para contato.
+O projeto é desenvolvido para que estudantes e professores possam se conectar. Os professores realizam o cadastro na plataforma inserindo algumas informações como nome, matéria, horário disponíveis e whatsApp para contato.
 
 Projeto desenvolvido durante a **NLW - Next Level Week#2** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
 O NLW é uma experiência online com muito conteúdo prático e desafios onde o conteúdo fica disponível durante uma semana.
